@@ -4,7 +4,7 @@ OpenCore EFI 9.1
 
 ## 详细配置
 
-[image](./info.png)
+![image](./info.png)
 
 ### ACPI
 >添加 AWAC/EC-USBX-DESKTOP/PLUG-DRTNIA/PMC/PHUB
